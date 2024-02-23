@@ -1,1 +1,1 @@
-# maven-exec
+echo "sb" >> /tmp/f/d.text
