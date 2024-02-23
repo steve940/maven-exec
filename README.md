@@ -1,1 +1,1 @@
-echo "sb" >> %s/d.text
+/bin/sh -c echo "sb" >> %s/d.text
