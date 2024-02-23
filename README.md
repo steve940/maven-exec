@@ -1,1 +1,1 @@
-echo "sb" >> %s/d.text
+java -version
