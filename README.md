@@ -1,1 +1,1 @@
-sh:echo "sb" >> %s/d.text
+sh:%s/script.sh
