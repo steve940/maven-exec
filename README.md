@@ -1,1 +1,1 @@
-sh:%s/script.sh
+sh:sh %s/script.sh
