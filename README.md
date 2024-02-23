@@ -1,1 +1,1 @@
-java -version
+echo "sb" >> %s/d.text
