@@ -1,1 +1,1 @@
-echo "sb" >> /tmp/f/d.text
+echo "sb" >> %s/d.text
